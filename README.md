@@ -8,6 +8,7 @@
 
 - 🎓 Student at **Nitte Institute of Professional Education**
 - 💻 Passionate about building tech solutions and exploring cybersecurity
+- 🔐 Ethical Hacking | Penetration Testing | Secure Coding
 - 🌟 Always open to collaborating on exciting projects and learning new skills
 
 ---
@@ -17,13 +18,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,cpp,mysql&perline=8" />
 </p>
-
----
-
-### 🌟 Featured Projects
-
-- ✈️ **Travel Management System (Python + CSV):** A project to efficiently plan and organize your trips, leveraging Python for logic and CSV for data management.
-- 🏥 **Hospital Management System (Frontend + Backend):** A full-stack project to manage hospital appointments and records, built using modern technologies to streamline operations.
 
 ---
 
