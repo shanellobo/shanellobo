@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <b>✨ If you like my work, star ⭐ my repos and let's build something amazing together! ✨</b>
+  <b>✨ If you like my work, my repos and let's build something amazing together! ✨</b>
 </p>
