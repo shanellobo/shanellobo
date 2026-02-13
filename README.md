@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Student at **Nitte Institute of Professional Education**
+- 🎓 Cyber Security Student
 - 💻 Passionate about building tech solutions and exploring cybersecurity
 - 🔐 Ethical Hacking | Penetration Testing | Secure Coding
 - 🌟 Always open to collaborating on exciting projects and learning new skills
@@ -17,15 +17,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,solidity,cs,c,mysql&perline=8" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanellobo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanellobo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -46,5 +37,5 @@
 </p>
 
 <p align="center">
-  <b>✨ If you like my work, my repos and let's build something amazing together! ✨</b>
+  <b>✨ If you like my work, my repos then let's build something amazing together! ✨</b>
 </p>
