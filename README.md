@@ -16,7 +16,7 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,cpp,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,solidity,cs,cpp,mysql&perline=8" />
 </p>
 
 ---
